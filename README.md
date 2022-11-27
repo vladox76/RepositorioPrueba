@@ -1,2 +1,1 @@
-# RepositorioAsiDePrueba
-Ps pa practicar... en platzi... jijia
+nuevo ridmi
